@@ -16,7 +16,7 @@ O projeto é dividido em três arquivos principais:
 </div> 
 
 <div>
-*index.html - Define a estrutura e o conteúdo da página web.
-*styles.css - Define a aparência visual da página.
-*script.js - Implementa a lógica e a funcionalidade da aplicação.
+<li>index.html - Define a estrutura e o conteúdo da página web.</li> 
+<li>styles.css - Define a aparência visual da página.</li> 
+<li>script.js - Implementa a lógica e a funcionalidade da aplicação.</li> 
 </div> 
