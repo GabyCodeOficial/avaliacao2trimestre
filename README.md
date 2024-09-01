@@ -22,6 +22,6 @@ O projeto é dividido em três arquivos principais:
 </div> 
 
 <div>
-O propósito final da atividade era explicar ao professor a funcionalidade de cada código.
+O propósito final da atividade era explicar ao professor a funcionalidade do código.
   
 </div>
