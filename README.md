@@ -4,7 +4,7 @@ Projeto de Cálculo da Média Aritmética
 </div> 
 
 <div>
-Este projeto foi feito para ser uma avaliação do 2°ano do ensino médio, e é uma aplicação simples de cálculo da média aritmética utilizando HTML, CSS e JavaScript gerado por IA. A aplicação permite que o usuário insira quatro números e, ao clicar em um botão, calcule a média desses números.
+Este projeto foi feito para ser uma avaliação do 2°ano do ensino médio, e é uma aplicação simples de cálculo da média aritmética utilizando HTML, CSS e JavaScript gerado por IA. O código permite que o usuário insira quatro números e, ao clicar em um botão, calcule a média desses números.
 </div> 
 
 <div>
